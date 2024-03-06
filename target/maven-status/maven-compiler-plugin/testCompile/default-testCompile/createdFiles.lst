@@ -1,0 +1,5 @@
+runners\MyTestRunner.class
+stepdefinations\HomePageStepDefinations.class
+application\ApplicationHooks.class
+stepdefinations\LoginStepDefinations.class
+stepdefinations\SignupPageStepDefination.class
